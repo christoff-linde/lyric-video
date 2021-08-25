@@ -26,6 +26,9 @@ The `.SVG` animation is then loaded with `.JS` in the browser as a `.JSON` file.
 All further styling was done with `.SCSS`, compiled to `.MIN.CSS`. Interaction
 is handled with `.JS`.
 
+I made use of [GitHub Actions](https://github.com/features/actions) to serve as a CI/CD Pipeline that
+publishes the website.
+
 ## What I Learned
 Throughout the project, I learnt how to create and animate motion graphics in
 After Effects, and exporting them for use in a interactive web-related context.
@@ -33,6 +36,9 @@ After Effects, and exporting them for use in a interactive web-related context.
 Learning how to perform basic DOM manipulations using Javascript is another
 concept I had to becode familiar with, as well as adding interactivity to an
 otherwise mostly static page.
+
+With GitHub Actions I learnt some of the basics of setting up and managing
+a simple CI/CD Pipeline.
 
 ## What Can I Improve
 The implementation of the project is not perfect, and some improvements can be made.
