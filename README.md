@@ -38,7 +38,7 @@ concept I had to becode familiar with, as well as adding interactivity to an
 otherwise mostly static page.
 
 With GitHub Actions I learnt some of the basics of setting up and managing
-a simple CI/CD Pipeline.
+a simple CD/CI Pipeline.
 
 ## What Can I Improve
 The implementation of the project is not perfect, and some improvements can be made.
