@@ -2,7 +2,7 @@
 *by Christoff Linde*
 
 ## View the Website
-[https://christoff-linde.github.io/lyric-video/index.html](https://christoff-linde.github.io/lyric-video/index.html)
+[https://christoff-linde.github.io/lyric-video/](https://christoff-linde.github.io/lyric-video/)
 
 ## The Project
 This project was part of VIO202, a module I took during my BIS Multimedia studies
